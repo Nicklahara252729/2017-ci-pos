@@ -1,0 +1,27 @@
+<table border="1">
+	<tr class="bg-success">
+	<th width="10">NO</th>
+	<th>Tanggal Transaksi</th>
+	<th>Operator</th>
+	<th>Total</th>
+	</tr>
+	<tr>
+	<td>1</td>
+	<td>2017-07-01</td>
+	<td>nick</td>
+	<td>Rp 6,300,000</td>
+	</tr><tr>
+	<td>2</td>
+	<td>2017-07-01</td>
+	<td>nick</td>
+	<td>Rp 6,500,000</td>
+	</tr><tr>
+	<td>3</td>
+	<td>2017-07-02</td>
+	<td>fira</td>
+	<td>Rp 65,000,000</td>
+	</tr>	<tr>
+	<th colspan="3" class="text-center">Total</th>
+	<th>Rp 77,800,000</th>
+	</tr>
+</table>
